@@ -1,0 +1,25 @@
+.card {
+    box-shadow: 0.5vh 0.5vh 0px rgba(86, 0, 76, 0.324);
+    backdrop-filter: blur(5px);
+    border: 2px solid #5E40BA;
+}
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    color: #331A7C;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+#title {
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 5vh;
+    padding-top: 0.7vh;
+    padding-bottom: 0.7vh;
+    text-align: center;
+}
