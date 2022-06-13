@@ -1,13 +1,17 @@
+body {
+    background-color: aliceblue;
+}
+
 .card {
-    box-shadow: 0.5vh 0.5vh 0px rgba(86, 0, 76, 0.324);
+    box-shadow: 0.5vh 0.5vh 0px rgba(0, 6, 86, 0.324);
     backdrop-filter: blur(5px);
-    border: 2px solid #5E40BA;
+    border: 2px solid #404cba;
 }
 
 h1 {
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
-    color: #331A7C;
+    color: #1a1f7c;
 }
 
 p {
